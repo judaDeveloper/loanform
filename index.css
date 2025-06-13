@@ -3,8 +3,8 @@ body {
   height: 100vh;
   height: 100dvh;
   display: grid; 
+  padding: 10px;
   background-color: gray;
-
 }
 * {
   margin: 0;

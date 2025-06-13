@@ -13,7 +13,6 @@ body {
   box-sizing: border-box;
   scroll-behavior: smooth;
   -moz-box-sizing: border-box;
-  font-family: Arial, sans-serif;
   -webkit-box-sizing: border-box;
 }
 .main {

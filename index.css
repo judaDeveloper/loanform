@@ -32,10 +32,10 @@ body {
   border-radius: 6px 6px 0px 0px;
   grid-template-columns: 100px 1fr;
 }
-.heada img {
+.head img {
   width: 100px;
 }
-.heada .xbtn {
+.head .xbtn {
   top: 3px;
   right: 3px;
   width: 23px;

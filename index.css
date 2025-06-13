@@ -22,7 +22,7 @@ body {
   height: 100%;
   background-color: green;
 }
-.heada {
+.head {
   display: grid;
   max-height: 50px;
   padding: 5px 15px;

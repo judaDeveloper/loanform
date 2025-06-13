@@ -22,3 +22,25 @@ body {
   height: 100%;
   background-color: green;
 }
+.heada {
+  display: grid;
+  max-height: 50px;
+  padding: 5px 15px;
+  position: relative;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 6px 6px 0px 0px;
+  grid-template-columns: 100px 1fr;
+}
+.heada img {
+  width: 100px;
+}
+.heada .xbtn {
+  top: 3px;
+  right: 3px;
+  width: 23px;
+  height: 23px;
+  fill: #919191;
+  position: absolute;
+  border-radius: 100%;
+}

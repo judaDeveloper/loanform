@@ -19,8 +19,9 @@ body {
 }
 .main {
   width: 100%;
-  height: calc(100% - 60px);
-  background-color: green;
+  border-radius: 6px;
+  height: calc(100% - 30px);
+  background-color: #708090;
 }
 .head {
   display: grid;

@@ -33,7 +33,7 @@ body {
   grid-template-columns: 100px 1fr;
 }
 .head img {
-  width: 100px;
+  width: 50px;
 }
 .head .xbtn {
   top: 3px;

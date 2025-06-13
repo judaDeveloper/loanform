@@ -21,7 +21,7 @@ body {
   width: 100%;
   border-radius: 6px;
   height: calc(100% - 30px);
-  background-color: #708090;
+  background-color: #6FA2D0;
 }
 .head {
   display: grid;

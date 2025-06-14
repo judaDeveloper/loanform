@@ -31,7 +31,7 @@ body {
   height: calc(100% - 30px);
   background-color: #ffffff50;
 }
-header {
+.head {
   display: grid;
   max-height: 50px;
   padding: 5px 15px;
@@ -41,10 +41,10 @@ header {
   border-radius: 6px 6px 0px 0px;
   grid-template-columns: 100px 1fr;
 }
-header img {
+.head img {
   width: 60px;
 }
-header .xbtn {
+.head .xbtn {
   top: 3px;
   right: 3px;
   width: 23px;

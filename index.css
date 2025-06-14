@@ -3,7 +3,7 @@ body {
   height: 100vh;
   height: 100dvh;
   display: grid; 
-  background-color:  #6FA2D0;
+  background-color:  #052c4f;
   padding: 10px 10px 50px 10px;
 }
 /* Gray-blue
@@ -29,7 +29,7 @@ body {
   width: 100%;
   border-radius: 6px;
   height: calc(100% - 30px);
-  background-color: #00000042;
+  background-color: #ffffff50;
 }
 .head {
   display: grid;
